@@ -1,0 +1,21 @@
+{
+  "name": "eternalblue",
+  "displayName": "EternalBlue",
+  "description": "None",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eternal Blue",
+        "uiTheme": "hc-black",
+        "path": "./themes/Eternal Blue-color-theme.json"
+      }
+    ]
+  }
+}
