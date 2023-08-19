@@ -1,0 +1,23 @@
+
+[Black]
+#000000 #101010 #1F1F1F 2E2D2D #363636 #4A4949
+
+[Blue]
+#0E0E52 #150578 3943B7
+
+
+
+[Mics]
+purple  : #C800FF
+blue    : #5900FF
+lblue   : #00C8FF
+yello   : #FFF200
+red     : #FF1717
+white   : #FBFBFB
+gray    : #BDBDBD
+
+[PALLET_1 : BLUE]
+#000000 #005CDD5 #FBFBFB #4A4949 #363636
+
+[PALLET_2 : PURPLE]
+#000000 #7200D6 #FBFBFB #4A4949 #363636
